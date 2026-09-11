@@ -1,4 +1,4 @@
-# EE417_Rectangular Microstrip Patch Antenna with Coaxial Feeding at 10 GHz Resonance
+Rectangular Microstrip Patch Antenna with Coaxial Feeding at 10 GHz Resonance
 
 This project had the following requirements and was simulated in CST Studio Suite
 • 𝑆11- parameter for the resonant frequency needs to be 10 GHz
